@@ -5,8 +5,9 @@ Professional Software Development
 For Students
 ---------------
 
-An ebook under construction that aims to eventually include,
-everything you'll need to know to “hit the ground running.”
+An ebook under construction that aims to include:
+
+    Everything you'll need to know to “hit the ground running.”
 
 This repository is for reporting bugs and requesting enhancements.
 You may click the "issues" tab above,
